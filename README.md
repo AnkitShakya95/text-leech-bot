@@ -83,7 +83,7 @@ python3 modules/main.py
 ```
 /start - 🦋 ʙᴏᴛ ᴀʟɪᴠᴇ ᴄʜᴇᴋɪɴɢ
 /stop - 🔥 ᴜᴘʟᴏᴀᴅ sᴛᴏᴘ
-/ankit - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
+/upload - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
 ```
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
