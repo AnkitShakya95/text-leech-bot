@@ -81,9 +81,9 @@ python3 modules/main.py
 
 ## Botfather Commands
 ```
-start - 🦋 ʙᴏᴛ ᴀʟɪᴠᴇ ᴄʜᴇᴋɪɴɢ
-stop - 🔥 ᴜᴘʟᴏᴀᴅ sᴛᴏᴘ
-uplod - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
+/start - 🦋 ʙᴏᴛ ᴀʟɪᴠᴇ ᴄʜᴇᴋɪɴɢ
+/stop - 🔥 ᴜᴘʟᴏᴀᴅ sᴛᴏᴘ
+/ankit - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
 ```
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
