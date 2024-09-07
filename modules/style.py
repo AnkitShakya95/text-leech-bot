@@ -1,7 +1,7 @@
 
 class Ashu(object):
   
-    START_TEXT = """ʜᴇʟʟᴏ ɪ ᴀᴍ ᴀsʜᴜ ᴛᴇxᴛ ʟᴇᴇᴄʜ ʙᴏᴛ  ɪ ᴀᴍ ᴀ ʙᴏᴛ ғᴏʀ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋs ғʀᴏᴍ ʏᴏᴜʀ **.ᴛxᴛ** ғɪʟᴇ ᴀɴᴅ ᴛʜᴇɴ ᴜᴘʟᴏᴀᴅ ᴛʜᴀᴛ ғɪʟᴇ ᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ sᴏ ʙᴀsɪᴄᴀʟʟʏ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ғɪʀsᴛ sᴇɴᴅ ᴍᴇ ⟰ /upload ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴛʜᴇɴ ғᴏʟʟᴏᴡ ғᴇᴡ sᴛᴇᴘs.."""
+    START_TEXT = """HELLO I AM ANKIT SHAKYA BOT I AM A BOT FOR DOWNLOAD LINKS FROM YOUR **.TXT** FILE AND THEN UPLOAD THAT FILE OM TELEGRAM SO BASICALLY IF YOU WANT TO USE ME FIRST SEND ME /ankit COMMAND AND THEN FOLLOW FEW STEPS.."""
 
     Q1_TEXT = """<b>
 ❏ sᴇɴᴅ ǫᴜᴀʟɪᴛʏ ʏᴏᴜ ᴡᴀɴᴛ
