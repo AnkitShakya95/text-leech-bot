@@ -33,7 +33,7 @@
 
 ## Deploy To Cloud Shell Editor
 <a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/AnkitShakya95/text-leech-bot&tutorial=help/gcloud.md" >
-  <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
+  <img src="https://raw.githubusercontent.com/AnkitShakya95/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
   
 ## Deploy To Render 
 
