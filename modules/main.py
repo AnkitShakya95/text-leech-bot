@@ -51,7 +51,7 @@ async def account_login(bot: Client, m: Message):
                     [
                     InlineKeyboardButton("✜ Ankit Shakya  ✜" ,url="https://t.me/INNOCENT_BOY73") ],
                     [
-                    InlineKeyboardButton("🦋 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 🦋" ,url="https://t.me/AnkitShakya73") ]                               
+                    InlineKeyboardButton("🦋 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 🦋" ,url="https://t.me/MEDICO_ANKITSHAKYA") ]                               
             ]))
 @bot.on_message(filters.command("stop"))
 async def restart_handler(_, m):
