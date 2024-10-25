@@ -29,7 +29,7 @@
 
 ## Deploy To Render                  
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AshutoshGoswami24/text-leech-bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AnkitShakya95/text-leech-bot)
 
 ## Deploy To Cloud Shell Editor
 <a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/AshutoshGoswami24/text-leech-bot&tutorial=help/gcloud.md" >
