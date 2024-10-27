@@ -6,5 +6,5 @@ RUN apt-get update -y && apt-get upgrade -y \
 
 COPY . /app/
 WORKDIR /app/
-RUN /usr/local/bin/python -m pip install --upgrade pip --requirement requirements.txt
+RUN python -m pip install --upgrade pip --requirement requirements.txt
 CMD python3 modules/main.py
