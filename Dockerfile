@@ -9,8 +9,7 @@ COPY . /app/
 
 WORKDIR /app/
 
-RUN pip3 install -r requirements.txt
+RUN pip install --upgrade pip-r requirements.txt
 
 CMD python3 modules/main.py
-# Expose Port 8080
-# PORT = int(os.environ.get("PORT", 8080))
+EXPOSE 8080
