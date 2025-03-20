@@ -48,18 +48,6 @@ async def txt_handler(bot: Client, m: Message):
     editable = await m.reply_text(f"**🔹**This Cammand Only For Owner @AnkitShakya.**")
     
 @bot.on_message(filters.command(["kanika","anu","shilu"]) )
-async def account_login(bot: Client, m: Message):
-    if m.chat.id != grp:
-        editable = await m.reply_text("Send Passcode:")
-        input0 = await bot.listen(editable.chat.id)
-        txt0 = input0.text
-        if txt0 == "001":
-            await input0.delete(True)
-        else:
-            await m.reply_text("Password Wrong Not For You Bye")
-            await input0.delete(True)
-            return
-        
 async def txt_handler(bot: Client, m: Message):
     editable = await m.reply_text(f"**🔹**Send me the TXT file and wait.**")
     input: Message = await bot.listen(editable.chat.id)
