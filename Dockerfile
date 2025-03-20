@@ -9,7 +9,7 @@ COPY . /app/
 
 WORKDIR /app/
 
-RUN pip install --upgrade pip-r requirements.txt
+RUN pip install --upgrade pip -r requirements.txt
 
 CMD python3 modules/main.py
 EXPOSE 8080
