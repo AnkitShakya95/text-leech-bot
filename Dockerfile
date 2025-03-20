@@ -11,5 +11,5 @@ WORKDIR /app/
 
 RUN pip install --upgrade pip -r requirements.txt
 
-CMD python3 modules/main.py
+CMD gunicorn app:app & python3 modules/main.py
 EXPOSE 8000
