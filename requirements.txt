@@ -23,3 +23,6 @@ umongo
 speedtest-cli
 gunicorn
 Flask
+pytube
+cloudscraper
+m3u8
